@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6s0109/t/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 常曉和尚請來目錄
+  edition:
+    short: t
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T55/T55n2163.xml
+    old_id: T55n2163
+hash: sha256:7b4e22b45888dd33a44658bc08e314655ccc7a9a9a930500876734291c144d82
